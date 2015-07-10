@@ -186,7 +186,7 @@
 
             if (!pattern) return;
 
-            iObj.option.onDraw(pattern);
+            iObj.option.onDraw(iObj.patternAry);
 
             //to remove last line
             iObj.line.remove();
