@@ -1,0 +1,14 @@
+{
+  "name": "patternlock",
+  "version": "3.10.0",
+  "description": "A light weight plugin to simulate android like pattern lock mechanism for your hybrid app or for a website. It's easy to configure and style so you can have different type of pattern lock according to your need. Is also provide some methods to use this plugin securely.",
+  "homepage": "http://ignitersworld.com/lab/patternLock.html",
+  "license": "MIT",
+  "main": "patternLock.js",
+  "keywords": "patternlock",
+  "author": "Sudhanshu Yadav <sudhanshuyadav2@gmail.com> (http://allyoucanleet.com/)",
+  "contributors": [
+    "John-David Dalton <john.david.dalton@gmail.com> (http://ignitersworld.com/me)"
+  ],
+  "repository": "s-yadav/patternLock"
+}
